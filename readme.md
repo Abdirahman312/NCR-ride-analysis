@@ -40,7 +40,8 @@ Key findings:
 ## 📑 Reports
 You can view the full report in:  
 - [📄 PDF Report][(Reports/NCR ride bookings analysis.pdf)](https://github.com/Abdirahman312/NCR-ride-analysis/blob/7d35e2f2ce389ed68972c2448727b497f0bb391a/Reports/NCR%20ride%20bookings%20analysis.pdf)   
-- [🌐 HTML Report]https://github.com/Abdirahman312/NCR-ride-analysis/blob/9e50cf02088fcea3f81e11e5fdce4e81e4773b6c/Reports/NCR%20ride%20bookings%20analysis.html
+- [🌐 HTML Report]📊 HTML Report: [View Here](https://raw.githubusercontent.com/Abdirahman312/NCR-ride-analysis/9e50cf02088fcea3f81e11e5fdce4e81e4773b6c/Reports/NCR%20ride%20bookings%20analysis.html)
+
   
 ---
 
