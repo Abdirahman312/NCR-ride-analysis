@@ -39,7 +39,7 @@ Key findings:
 
 ## 📑 Reports
 You can view the full report in:  
-- [📄 PDF Report]("C:\Users\abdir\Desktop\NCR ride analysis\Reports\NCR ride bookings analysis.pdf")  
+- [📄 PDF Report](reports/NCR_Ride_Bookings_Analysis.pdf)    
 - [🌐 HTML Report](reports/NCR_Ride_Bookings_Analysis.html)  
 
 ---
