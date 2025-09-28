@@ -39,8 +39,8 @@ Key findings:
 
 ## 📑 Reports
 You can view the full report in:  
-- [📄 PDF Report](reports/NCR_Ride_Bookings_Analysis.pdf)    
-- [🌐 HTML Report](reports/NCR_Ride_Bookings_Analysis.html)  
+- [📄 PDF Report](reports/NCR_Ride_Bookings_analysis.pdf)    
+- [🌐 HTML Report](reports/NCR_Ride_Bookings_analysis.html)  
 
 ---
 
