@@ -63,6 +63,6 @@ Hi, I’m **Abdirahman Ahmed** 👋
 - 💡 Always curious to learn, explore, and apply new data techniques  
 
 📫 Connect with me on:  
-- [LinkedIn](www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
+- [LinkedIn](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - [GitHub](https://github.com/Abdirahman312)  
 - 📧 Email: **Abdirahmanahmed2728@email.com**
