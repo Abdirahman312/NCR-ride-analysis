@@ -65,4 +65,4 @@ Hi, I’m **Abdirahman Ahmed** 👋
 📫 Connect with me on:  
 - [LinkedIn](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - [GitHub](https://github.com/Abdirahman312)  
-- 📧 Email: <a href="mailto:abdirahman@email.com">Email Me</a>
+- 📧 Email: <a href="mailto:abdirahman@email.com">abdirahman@email.com</a>
